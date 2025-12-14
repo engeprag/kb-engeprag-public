@@ -19,7 +19,7 @@
 
 ### 1. Transcrever Todo Conteúdo do Site
 
-#### 01-sobre-engeprag/ (25% concluído)
+#### sobre-engeprag/ (25% concluído)
 
 - [x] historia-missao-valores.md
 - [ ] certificacoes-habilitacoes.md
@@ -27,7 +27,7 @@
 - [ ] areas-atuacao.md
 - [ ] README.md (índice da pasta)
 
-#### 02-servicos/ (10% concluído)
+#### servicos/ (10% concluído)
 
 - [x] desinsetizacao.md
 - [ ] desratizacao.md
@@ -41,7 +41,7 @@
 - [ ] cip-controle-integrado.md
 - [ ] README.md (índice da pasta)
 
-#### 03-pragas-urbanas/ (0% concluído)
+#### pragas-urbanas/ (0% concluído)
 
 Criar subpastas e documentos:
 
@@ -77,7 +77,7 @@ Criar subpastas e documentos:
 - [ ] aranhas.md
 - [ ] README.md
 
-#### 04-metodologias/ (0% concluído)
+#### metodologias/ (0% concluído)
 
 - [ ] controle-integrado-pragas.md
 - [ ] manejo-ecologico.md
@@ -86,7 +86,7 @@ Criar subpastas e documentos:
 - [ ] protocolos-seguranca.md
 - [ ] README.md
 
-#### 05-regulamentacao/ (0% concluído)
+#### regulamentacao/ (0% concluído)
 
 - [ ] anvisa-requisitos.md
 - [ ] vigilancia-sanitaria.md
@@ -96,7 +96,7 @@ Criar subpastas e documentos:
 - [ ] cetesb-ibama.md
 - [ ] README.md
 
-#### 06-prevencao/ (0% concluído)
+#### prevencao/ (0% concluído)
 
 - [ ] prevencao-residencias.md
 - [ ] prevencao-empresas.md
@@ -105,7 +105,7 @@ Criar subpastas e documentos:
 - [ ] prevencao-restaurantes.md
 - [ ] README.md
 
-#### 07-faq/ (25% concluído)
+#### faq/ (25% concluído)
 
 - [x] faq-residencial.md
 - [ ] faq-empresarial.md
@@ -113,7 +113,7 @@ Criar subpastas e documentos:
 - [ ] faq-geral.md
 - [ ] README.md
 
-#### 08-blog/ (17% concluído)
+#### artigos/ (17% concluído)
 
 - [x] 2024-04-barata-germanica.md
 - [ ] 2024-11-desratizacao-como-funciona.md
@@ -123,7 +123,7 @@ Criar subpastas e documentos:
 - [ ] 2024-04-problema-ratos.md
 - [ ] README.md
 
-#### 09-casos-estudo/ (0% concluído)
+#### casos-estudo/ (0% concluído)
 
 - [ ] caso-industria-alimenticia.md
 - [ ] caso-condominio-residencial.md
@@ -174,15 +174,15 @@ Criar subpastas e documentos:
 
 | Categoria | Arquivos | Estimativa Tempo |
 |-----------|----------|------------------|
-| 01-sobre-engeprag | 3 arquivos | 2h |
-| 02-servicos | 9 arquivos | 9h |
-| 03-pragas-urbanas | ~20 arquivos | 15h |
-| 04-metodologias | 5 arquivos | 4h |
-| 05-regulamentacao | 6 arquivos | 5h |
-| 06-prevencao | 5 arquivos | 4h |
-| 07-faq | 3 arquivos | 3h |
-| 08-blog | 5 arquivos | 5h |
-| 09-casos-estudo | 4 arquivos | 3h |
+| sobre-engeprag | 3 arquivos | 2h |
+| servicos | 9 arquivos | 9h |
+| pragas-urbanas | ~20 arquivos | 15h |
+| metodologias | 5 arquivos | 4h |
+| regulamentacao | 6 arquivos | 5h |
+| prevencao | 5 arquivos | 4h |
+| faq | 3 arquivos | 3h |
+| artigos | 5 arquivos | 5h |
+| casos-estudo | 4 arquivos | 3h |
 | Suporte e automação | - | 3h |
 | **TOTAL** | **~60 arquivos** | **~53 horas** |
 
@@ -200,9 +200,9 @@ Criar subpastas e documentos:
 **Objetivo**: Repositório funcional com conteúdo essencial
 
 1. ✅ README.md e .ai-guide.md (CONCLUÍDO)
-2. ⏳ Completar 02-servicos/ (todos os 9 serviços)
-3. ⏳ Completar 08-blog/ (todos os 6 artigos)
-4. ⏳ Completar 07-faq/ (todos os FAQs)
+2. ⏳ Completar servicos/ (todos os 9 serviços)
+3. ⏳ Completar artigos/ (todos os 6 artigos)
+4. ⏳ Completar faq/ (todos os FAQs)
 5. ⏳ Criar LICENSE e CONTRIBUTING.md
 6. ⏳ Publicar repositório no GitHub
 
@@ -213,9 +213,9 @@ Criar subpastas e documentos:
 
 **Objetivo**: Conteúdo técnico completo
 
-1. Completar 03-pragas-urbanas/ (todas as pragas)
-2. Completar 04-metodologias/
-3. Completar 06-prevencao/
+1. Completar pragas-urbanas/ (todas as pragas)
+2. Completar metodologias/
+3. Completar prevencao/
 
 **Tempo estimado**: 20-25 horas
 **Resultado**: Base de conhecimento abrangente
@@ -224,8 +224,8 @@ Criar subpastas e documentos:
 
 **Objetivo**: Conformidade e automação
 
-1. Completar 05-regulamentacao/
-2. Completar 09-casos-estudo/
+1. Completar regulamentacao/
+2. Completar casos-estudo/
 3. Implementar scripts e automações
 4. Adicionar imagens e assets
 
@@ -254,9 +254,9 @@ Criar subpastas e documentos:
 ### Opção 3: Foco no MVP (Recomendado)
 
 **Publicar versão inicial**:
-1. Completar apenas 02-servicos/ (9 arquivos)
-2. Completar apenas 08-blog/ (5 artigos)
-3. Completar apenas 07-faq/ (3 FAQs restantes)
+1. Completar apenas servicos/ (9 arquivos)
+2. Completar apenas artigos/ (5 artigos)
+3. Completar apenas faq/ (3 FAQs restantes)
 4. Criar LICENSE
 5. **PUBLICAR repositório**
 6. Expandir gradualmente
@@ -370,7 +370,7 @@ Para continuar este projeto, você pode:
    - "Crie documento sobre escorpiões"
 
 2. **Pedir para completar categoria específica**
-   - "Complete todos os documentos de 02-servicos/"
+   - "Complete todos os documentos de servicos/"
    - "Transcreva todos os artigos do blog"
 
 3. **Focar no MVP**

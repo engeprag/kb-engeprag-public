@@ -123,15 +123,15 @@ R: Resposta detalhada.
 
 ```
 kb-engeprag-public/
-├── 01-sobre-engeprag/      # Informações institucionais
-├── 02-servicos/             # Serviços oferecidos
-├── 03-pragas-urbanas/       # Informações sobre pragas
-├── 04-metodologias/         # Técnicas e metodologias
-├── 05-regulamentacao/       # Legislação e normas
-├── 06-prevencao/            # Medidas preventivas
-├── 07-faq/                  # Perguntas frequentes
-├── 08-blog/                 # Artigos educativos
-└── 09-casos-estudo/         # Exemplos práticos
+├── sobre-engeprag/      # Informações institucionais
+├── servicos/             # Serviços oferecidos
+├── pragas-urbanas/       # Informações sobre pragas
+├── metodologias/         # Técnicas e metodologias
+├── regulamentacao/       # Legislação e normas
+├── prevencao/            # Medidas preventivas
+├── faq/                  # Perguntas frequentes
+├── artigos/                 # Artigos educativos
+└── casos-estudo/         # Exemplos práticos
 ```
 
 ### Nomenclatura de Arquivos

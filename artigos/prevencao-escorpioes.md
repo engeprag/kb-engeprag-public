@@ -11,10 +11,10 @@ updated: "2025-01-15"
 version: "1.1"
 audience: ["homeowners", "businesses", "llm", "general-public"]
 related_docs:
-  - "../02-servicos/escorpioes-aranhas.md"
-  - "../03-pragas-urbanas/escorpioes/escorpiao-amarelo.md"
-  - "../03-pragas-urbanas/escorpioes/prevencao-escorpioes.md"
-  - "../06-prevencao/prevencao-residencias.md"
+  - "../servicos/escorpioes-aranhas.md"
+  - "../pragas-urbanas/escorpioes/escorpiao-amarelo.md"
+  - "../pragas-urbanas/escorpioes/prevencao-escorpioes.md"
+  - "../prevencao/prevencao-residencias.md"
 seo_description: "Como prevenir escorpiões em casa: vedação, limpeza, cuidados essenciais. O que fazer em caso de picada. Guia completo da ENGEPRAG."
 canonical_url: "https://www.engeprag.com.br/blog/medidas-preventivas-contra-escorpioes"
 reading_time: "7 minutos"
@@ -462,7 +462,7 @@ Se há escorpiões → Há MUITAS baratas
 3. **Vedação de frestas**
 4. **Armazenamento correto** de alimentos
 
-[Ver guia de controle de baratas →](../02-servicos/desinsetizacao.md)
+[Ver guia de controle de baratas →](../servicos/desinsetizacao.md)
 
 ---
 
@@ -639,7 +639,7 @@ Se matou o escorpião:
 - Medidas preventivas
 - Acompanhamento
 
-[Saiba mais sobre o serviço →](../02-servicos/escorpioes-aranhas.md)
+[Saiba mais sobre o serviço →](../servicos/escorpioes-aranhas.md)
 
 ### 📞 Contato
 
@@ -731,10 +731,10 @@ Se matou o escorpião:
 
 ### Documentos Relacionados
 
-- [Serviço de Controle de Escorpiões e Aranhas](../02-servicos/escorpioes-aranhas.md)
-- [Escorpião Amarelo - Informações Detalhadas](../03-pragas-urbanas/escorpioes/escorpiao-amarelo.md)
-- [Desinsetização (Controle de Baratas)](../02-servicos/desinsetizacao.md)
-- [Prevenção em Residências](../06-prevencao/prevencao-residencias.md)
+- [Serviço de Controle de Escorpiões e Aranhas](../servicos/escorpioes-aranhas.md)
+- [Escorpião Amarelo - Informações Detalhadas](../pragas-urbanas/escorpioes/escorpiao-amarelo.md)
+- [Desinsetização (Controle de Baratas)](../servicos/desinsetizacao.md)
+- [Prevenção em Residências](../prevencao/prevencao-residencias.md)
 
 ### Recursos Externos
 

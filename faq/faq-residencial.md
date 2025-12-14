@@ -11,9 +11,9 @@ updated: "2025-01-15"
 version: "1.0"
 audience: ["homeowners", "llm"]
 related_docs:
-  - "../02-servicos/desinsetizacao.md"
-  - "../02-servicos/desratizacao.md"
-  - "../06-prevencao/prevencao-residencias.md"
+  - "../servicos/desinsetizacao.md"
+  - "../servicos/desratizacao.md"
+  - "../prevencao/prevencao-residencias.md"
 seo_description: "Perguntas frequentes sobre controle de pragas residencial. Segurança, preços, garantia, preparação e cuidados. ENGEPRAG responde suas dúvidas."
 canonical_url: "https://www.engeprag.com.br/faq-residencial"
 ---
@@ -326,7 +326,7 @@ Se houver infestação em armários:
 
 **É mais simples do que parece!**
 
-[Ver guia completo de preparação →](../02-servicos/desinsetizacao.md#preparação-do-ambiente)
+[Ver guia completo de preparação →](../servicos/desinsetizacao.md#preparação-do-ambiente)
 
 ---
 
@@ -442,7 +442,7 @@ Se houver infestação em armários:
 
 **NÃO SE PREOCUPE! É sinal de eficácia!**
 
-[Entenda o efeito flush out →](../02-servicos/desinsetizacao.md#primeira-semana)
+[Entenda o efeito flush out →](../servicos/desinsetizacao.md#primeira-semana)
 
 ---
 
@@ -539,7 +539,7 @@ Se houver infestação em armários:
 - ✅ Reaplicações incluídas
 - ✅ Acompanhamento contínuo
 
-[Saiba mais sobre CIP →](../02-servicos/cip-controle-integrado.md)
+[Saiba mais sobre CIP →](../servicos/cip-controle-integrado.md)
 
 #### Como Acionar Garantia
 
@@ -615,7 +615,7 @@ Se houver infestação em armários:
 5. ✅ Monitore periodicamente
 6. ✅ Considere **Contrato CIP**
 
-[Ver medidas preventivas completas →](../06-prevencao/prevencao-residencias.md)
+[Ver medidas preventivas completas →](../prevencao/prevencao-residencias.md)
 
 ---
 
@@ -681,7 +681,7 @@ Se houver infestação em armários:
 **Orçamento gratuito**:
 - 📱 WhatsApp: (12) 99222-5458
 
-[Saiba mais sobre desratização →](../02-servicos/desratizacao.md)
+[Saiba mais sobre desratização →](../servicos/desratizacao.md)
 
 ---
 
@@ -772,7 +772,7 @@ Se houver infestação em armários:
 
 **Para infestações de Barata Germânica, serviço profissional é ESSENCIAL!**
 
-[Leia artigo completo sobre Barata Germânica →](../08-blog/2024-04-barata-germanica.md)
+[Leia artigo completo sobre Barata Germânica →](../artigos/2024-04-barata-germanica.md)
 
 ---
 
@@ -834,7 +834,7 @@ Se houver infestação em armários:
 
 **📞 LIGUE AGORA: (12) 99222-5458**
 
-[Saiba mais sobre desratização →](../02-servicos/desratizacao.md)
+[Saiba mais sobre desratização →](../servicos/desratizacao.md)
 
 ---
 
@@ -868,7 +868,7 @@ Se houver infestação em armários:
 
 **Cupins causam danos estruturais severos - aja rápido!**
 
-[Saiba mais sobre descupinização →](../02-servicos/descupinizacao.md)
+[Saiba mais sobre descupinização →](../servicos/descupinizacao.md)
 
 ---
 
@@ -903,7 +903,7 @@ Se houver infestação em armários:
 
 **Escorpião amarelo é MUITO PERIGOSO - não subestime!**
 
-[Leia mais sobre prevenção de escorpiões →](../08-blog/2024-04-prevencao-escorpioes.md)
+[Leia mais sobre prevenção de escorpiões →](../artigos/2024-04-prevencao-escorpioes.md)
 
 ---
 
@@ -947,7 +947,7 @@ Se houver infestação em armários:
 - Aja rápido ao avistar pragas
 - Considere aplicações preventivas (CIP)
 
-[Guia completo de prevenção →](../06-prevencao/prevencao-residencias.md)
+[Guia completo de prevenção →](../prevencao/prevencao-residencias.md)
 
 ---
 
@@ -1023,7 +1023,7 @@ Se houver infestação em armários:
 
 **Prevenção custa menos e garante melhor resultado!**
 
-[Saiba mais sobre Contrato CIP →](../02-servicos/cip-controle-integrado.md)
+[Saiba mais sobre Contrato CIP →](../servicos/cip-controle-integrado.md)
 
 ---
 
@@ -1055,12 +1055,12 @@ São José dos Campos - SP - 12209-450
 
 ## 🔗 Saiba Mais
 
-- [Serviços Oferecidos](../02-servicos/)
-- [Desinsetização Detalhada](../02-servicos/desinsetizacao.md)
-- [Desratização Detalhada](../02-servicos/desratizacao.md)
-- [Controle Integrado de Pragas (CIP)](../02-servicos/cip-controle-integrado.md)
-- [Prevenção em Residências](../06-prevencao/prevencao-residencias.md)
-- [Blog com Artigos](../08-blog/)
+- [Serviços Oferecidos](../servicos/)
+- [Desinsetização Detalhada](../servicos/desinsetizacao.md)
+- [Desratização Detalhada](../servicos/desratizacao.md)
+- [Controle Integrado de Pragas (CIP)](../servicos/cip-controle-integrado.md)
+- [Prevenção em Residências](../prevencao/prevencao-residencias.md)
+- [Blog com Artigos](../artigos/)
 
 ---
 

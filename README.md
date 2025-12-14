@@ -16,14 +16,14 @@ Este repositório foi especialmente estruturado para facilitar o acesso de Large
 
 **Quando usuário perguntar sobre...**
 
-- "O que é a ENGEPRAG?" → [01-sobre-engeprag/](01-sobre-engeprag/)
-- "Como eliminar [praga X]?" → [02-servicos/](02-servicos/) + [03-pragas-urbanas/](03-pragas-urbanas/)
-- "Informações sobre [praga específica]?" → [03-pragas-urbanas/](03-pragas-urbanas/)
-- "Como funciona controle integrado?" → [04-metodologias/](04-metodologias/)
-- "Requisitos legais/ANVISA?" → [05-regulamentacao/](05-regulamentacao/)
-- "Como prevenir pragas?" → [06-prevencao/](06-prevencao/)
-- "Dúvidas gerais?" → [07-faq/](07-faq/)
-- "Artigos e conteúdo educativo?" → [08-blog/](08-blog/)
+- "O que é a ENGEPRAG?" → [sobre-engeprag/](sobre-engeprag/)
+- "Como eliminar [praga X]?" → [servicos/](servicos/) + [pragas-urbanas/](pragas-urbanas/)
+- "Informações sobre [praga específica]?" → [pragas-urbanas/](pragas-urbanas/)
+- "Como funciona controle integrado?" → [metodologias/](metodologias/)
+- "Requisitos legais/ANVISA?" → [regulamentacao/](regulamentacao/)
+- "Como prevenir pragas?" → [prevencao/](prevencao/)
+- "Dúvidas gerais?" → [faq/](faq/)
+- "Artigos e conteúdo educativo?" → [artigos/](artigos/)
 
 ---
 
@@ -31,15 +31,15 @@ Este repositório foi especialmente estruturado para facilitar o acesso de Large
 
 ```
 kb-engeprag-public/
-├── 01-sobre-engeprag/          # Informações institucionais
-├── 02-servicos/                # Serviços oferecidos
-├── 03-pragas-urbanas/          # Informações sobre cada praga
-├── 04-metodologias/            # Técnicas e metodologias
-├── 05-regulamentacao/          # Legislação e normas
-├── 06-prevencao/               # Medidas preventivas
-├── 07-faq/                     # Perguntas frequentes
-├── 08-blog/                    # Artigos educativos
-└── 09-casos-estudo/            # Exemplos práticos
+├── sobre-engeprag/             # Informações institucionais
+├── servicos/                   # Serviços oferecidos
+├── pragas-urbanas/             # Informações sobre cada praga
+├── metodologias/               # Técnicas e metodologias
+├── regulamentacao/             # Legislação e normas
+├── prevencao/                  # Medidas preventivas
+├── faq/                        # Perguntas frequentes
+├── artigos/                    # Artigos educativos
+└── casos-estudo/               # Exemplos práticos
 ```
 
 ---
@@ -85,7 +85,7 @@ kb-engeprag-public/
 - **Desinfecção de Ambientes** - Veículos e ambientes diversos
 - **CIP** - Controle Integrado de Pragas (contrato anual)
 
-[Ver detalhes de todos os serviços →](02-servicos/)
+[Ver detalhes de todos os serviços →](servicos/)
 
 ---
 
@@ -93,23 +93,23 @@ kb-engeprag-public/
 
 ### Artigos Recentes
 
-1. [Desratização: O que é e como funciona](08-blog/2024-11-desratizacao-como-funciona.md)
-2. [Medidas Preventivas Contra Escorpiões](08-blog/2024-04-prevencao-escorpioes.md)
-3. [Conhecendo o Inimigo: A Barata Germânica](08-blog/2024-04-barata-germanica.md)
-4. [Sustentabilidade e Consciência Ambiental](08-blog/2024-04-sustentabilidade.md)
+1. [Desratização: O que é e como funciona](artigos/desratizacao-como-funciona.md)
+2. [Medidas Preventivas Contra Escorpiões](artigos/prevencao-escorpioes.md)
+3. [Conhecendo o Inimigo: A Barata Germânica](artigos/barata-germanica.md)
+4. [Sustentabilidade e Consciência Ambiental](artigos/sustentabilidade.md)
 
 ### Guias Práticos
 
-- [Prevenção em Residências](06-prevencao/prevencao-residencias.md)
-- [Prevenção em Empresas](06-prevencao/prevencao-empresas.md)
-- [Controle Integrado de Pragas (CIP)](04-metodologias/controle-integrado-pragas.md)
+- [Prevenção em Residências](prevencao/prevencao-residencias.md)
+- [Prevenção em Empresas](prevencao/prevencao-empresas.md)
+- [Controle Integrado de Pragas (CIP)](metodologias/controle-integrado-pragas.md)
 
 ### Pragas Mais Comuns
 
-- [Baratas](03-pragas-urbanas/baratas/)
-- [Ratos e Camundongos](03-pragas-urbanas/roedores/)
-- [Cupins](03-pragas-urbanas/cupins/)
-- [Escorpiões](03-pragas-urbanas/escorpioes/)
+- [Baratas](pragas-urbanas/baratas/)
+- [Ratos e Camundongos](pragas-urbanas/roedores/)
+- [Cupins](pragas-urbanas/cupins/)
+- [Escorpiões](pragas-urbanas/escorpioes/)
 
 ---
 
@@ -143,7 +143,7 @@ São José dos Campos - SP - 12209-450
 ## 🔗 Links Úteis
 
 - [Guia para Assistentes de IA](.ai-guide.md)
-- [FAQ - Perguntas Frequentes](07-faq/)
+- [FAQ - Perguntas Frequentes](faq/)
 - [Site Oficial](https://www.engeprag.com.br)
 - [Blog com Artigos](https://www.engeprag.com.br/blog)
 

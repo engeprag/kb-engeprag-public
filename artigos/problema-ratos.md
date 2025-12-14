@@ -11,9 +11,9 @@ updated: "2025-01-15"
 version: "1.1"
 audience: ["homeowners", "businesses", "llm"]
 related_docs:
-  - "../02-servicos/desratizacao.md"
-  - "../03-pragas-urbanas/roedores/rato-urbano.md"
-  - "../03-pragas-urbanas/roedores/camundongo.md"
+  - "../servicos/desratizacao.md"
+  - "../pragas-urbanas/roedores/rato-urbano.md"
+  - "../pragas-urbanas/roedores/camundongo.md"
   - "2024-11-desratizacao-como-funciona.md"
 seo_description: "Problema com ratos? Entenda desratização profissional, riscos à saúde (leptospirose), espécies urbanas e quando contratar. ENGEPRAG - Vale do Paraíba."
 canonical_url: "https://www.engeprag.com.br/blog/tenho-problema-com-ratos-entenda-o-que-e-desratizacao"
@@ -172,7 +172,7 @@ Roedores podem transmitir **mais de 200 doenças**, incluindo:
 - Febre, vômitos
 - Dores articulares
 
-[Ver lista completa de doenças →](../02-servicos/desratizacao.md#doenças-transmitidas)
+[Ver lista completa de doenças →](../servicos/desratizacao.md#doenças-transmitidas)
 
 ### 💰 Danos Materiais
 
@@ -306,7 +306,7 @@ Roedores causam prejuízos significativos:
 - Roedura fina em embalagens
 - Marcas de urina (luz UV revela)
 
-[Identificação detalhada →](../03-pragas-urbanas/roedores/)
+[Identificação detalhada →](../pragas-urbanas/roedores/)
 
 ---
 
@@ -619,7 +619,7 @@ Contrate profissional IMEDIATAMENTE se:
 
 **Duração típica do tratamento**: 2-8 semanas
 
-[Detalhes completos do serviço →](../02-servicos/desratizacao.md)
+[Detalhes completos do serviço →](../servicos/desratizacao.md)
 
 ---
 
@@ -669,7 +669,7 @@ Contrate profissional IMEDIATAMENTE se:
 ✅ Procure por sinais
 ✅ Aja rápido ao detectar
 
-[Guia completo de prevenção →](../06-prevencao/prevencao-residencias.md)
+[Guia completo de prevenção →](../prevencao/prevencao-residencias.md)
 
 ---
 
@@ -707,7 +707,7 @@ Riscos:
 
 **Orçamento gratuito**: (12) 99222-5458
 
-[Ver detalhes de preços →](../02-servicos/desratizacao.md#preços-e-orçamento)
+[Ver detalhes de preços →](../servicos/desratizacao.md#preços-e-orçamento)
 
 ### 4. Quanto tempo para eliminar?
 
@@ -811,11 +811,11 @@ Normalmente requer:
 
 ### Documentos Relacionados
 
-- [Desratização Profissional - Guia Completo](../02-servicos/desratizacao.md)
+- [Desratização Profissional - Guia Completo](../servicos/desratizacao.md)
 - [Desratização: Como Funciona](2024-11-desratizacao-como-funciona.md)
-- [Rato Urbano - Informações Detalhadas](../03-pragas-urbanas/roedores/rato-urbano.md)
-- [Camundongo - Informações Detalhadas](../03-pragas-urbanas/roedores/camundongo.md)
-- [Prevenção em Residências](../06-prevencao/prevencao-residencias.md)
+- [Rato Urbano - Informações Detalhadas](../pragas-urbanas/roedores/rato-urbano.md)
+- [Camundongo - Informações Detalhadas](../pragas-urbanas/roedores/camundongo.md)
+- [Prevenção em Residências](../prevencao/prevencao-residencias.md)
 
 ---
 

@@ -11,10 +11,10 @@ updated: "2025-01-15"
 version: "1.0"
 audience: ["homeowners", "businesses", "llm"]
 related_docs:
-  - "../03-pragas-urbanas/baratas/barata-germanica.md"
-  - "../03-pragas-urbanas/baratas/controle-baratas.md"
-  - "../04-metodologias/controle-integrado-pragas.md"
-  - "../06-prevencao/prevencao-residencias.md"
+  - "../pragas-urbanas/baratas/barata-germanica.md"
+  - "../pragas-urbanas/baratas/controle-baratas.md"
+  - "../metodologias/controle-integrado-pragas.md"
+  - "../prevencao/prevencao-residencias.md"
 seo_description: "Desinsetização profissional em São José dos Campos. Eliminação de baratas, formigas e insetos com produtos inodoros e garantia. ENGEPRAG - ANVISA certificada."
 canonical_url: "https://www.engeprag.com.br/servicos/desinsetizacao"
 ---
@@ -93,7 +93,7 @@ Ambos os termos se referem ao **mesmo serviço**, mas "desinsetização" é mais
 - Alergias respiratórias
 - Odor desagradável
 
-[Saiba mais sobre baratas →](../03-pragas-urbanas/baratas/)
+[Saiba mais sobre baratas →](../pragas-urbanas/baratas/)
 
 #### 2. Formigas 🐜
 
@@ -606,14 +606,14 @@ Para infestações estabelecidas, serviço profissional é mais eficaz.
 
 ### Documentos Relacionados
 
-- [Baratas: Tudo sobre Baratas Germânicas](../03-pragas-urbanas/baratas/barata-germanica.md)
+- [Baratas: Tudo sobre Baratas Germânicas](../pragas-urbanas/baratas/barata-germanica.md)
 - [Controle Integrado de Pragas (CIP)](cip-controle-integrado.md)
-- [Prevenção em Residências](../06-prevencao/prevencao-residencias.md)
-- [Metodologias de Controle](../04-metodologias/controle-integrado-pragas.md)
+- [Prevenção em Residências](../prevencao/prevencao-residencias.md)
+- [Metodologias de Controle](../metodologias/controle-integrado-pragas.md)
 
 ### Artigos do Blog
 
-- [Conhecendo o Inimigo: A Barata Germânica](../08-blog/2024-04-barata-germanica.md)
+- [Conhecendo o Inimigo: A Barata Germânica](../artigos/2024-04-barata-germanica.md)
 
 ---
 

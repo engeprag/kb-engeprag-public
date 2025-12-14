@@ -13,7 +13,7 @@ audience: ["homeowners", "businesses", "llm", "general-public"]
 related_docs:
   - "certificacoes-habilitacoes.md"
   - "equipe-responsavel-tecnico.md"
-  - "../02-servicos/cip-controle-integrado.md"
+  - "../servicos/cip-controle-integrado.md"
 seo_description: "ENGEPRAG: Controle de pragas em São José dos Campos desde 2012. Certificada ANVISA, CREA-SP. Equipe especializada e responsável técnica com 20+ anos de experiência."
 canonical_url: "https://www.engeprag.com.br/sobre"
 ---
@@ -269,7 +269,7 @@ A ENGEPRAG está comprometida com práticas sustentáveis:
 ✅ **Descarte correto** de embalagens (legislação CETESB)
 ✅ **Certificação IBAMA** para produtos fitossanitários
 
-[Leia mais sobre sustentabilidade →](../08-blog/2024-04-sustentabilidade.md)
+[Leia mais sobre sustentabilidade →](../artigos/2024-04-sustentabilidade.md)
 
 ---
 
@@ -310,8 +310,8 @@ CEP: 12209-450
 - [Certificações e Habilitações](certificacoes-habilitacoes.md)
 - [Equipe e Responsável Técnico](equipe-responsavel-tecnico.md)
 - [Áreas de Atuação](areas-atuacao.md)
-- [Serviços Oferecidos](../02-servicos/)
-- [Controle Integrado de Pragas (CIP)](../02-servicos/cip-controle-integrado.md)
+- [Serviços Oferecidos](../servicos/)
+- [Controle Integrado de Pragas (CIP)](../servicos/cip-controle-integrado.md)
 
 ---
 

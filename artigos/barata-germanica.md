@@ -11,9 +11,9 @@ updated: "2025-01-15"
 version: "1.1"
 audience: ["homeowners", "businesses", "llm", "general-public"]
 related_docs:
-  - "../02-servicos/desinsetizacao.md"
-  - "../03-pragas-urbanas/baratas/barata-germanica.md"
-  - "../06-prevencao/prevencao-residencias.md"
+  - "../servicos/desinsetizacao.md"
+  - "../pragas-urbanas/baratas/barata-germanica.md"
+  - "../prevencao/prevencao-residencias.md"
 seo_description: "Barata Germânica (Blattella germanica): identificação, hábitos, reprodução rápida, riscos à saúde e como eliminar. Guia completo da ENGEPRAG."
 canonical_url: "https://www.engeprag.com.br/blog/conhecendo-o-inimigo-a-barata-germanica-blattella-germanica"
 reading_time: "8 minutos"
@@ -469,7 +469,7 @@ Baratas Germânicas **não picam ou mordem**, mas transmitem doenças por **cont
 - ✅ Aplicações preventivas periódicas
 - ✅ Evite reinfestação
 
-[Saiba mais sobre prevenção →](../06-prevencao/prevencao-residencias.md)
+[Saiba mais sobre prevenção →](../prevencao/prevencao-residencias.md)
 
 ---
 
@@ -525,9 +525,9 @@ Baratas Germânicas **não picam ou mordem**, mas transmitem doenças por **cont
 
 ### Documentos Relacionados
 
-- [Serviço de Desinsetização](../02-servicos/desinsetizacao.md)
-- [Controle Integrado de Pragas (CIP)](../02-servicos/cip-controle-integrado.md)
-- [Prevenção em Residências](../06-prevencao/prevencao-residencias.md)
+- [Serviço de Desinsetização](../servicos/desinsetizacao.md)
+- [Controle Integrado de Pragas (CIP)](../servicos/cip-controle-integrado.md)
+- [Prevenção em Residências](../prevencao/prevencao-residencias.md)
 
 ### Outros Artigos do Blog
 

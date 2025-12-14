@@ -11,9 +11,9 @@ updated: "2025-01-15"
 version: "1.1"
 audience: ["homeowners", "businesses", "llm", "general-public"]
 related_docs:
-  - "../01-sobre-engeprag/historia-missao-valores.md"
-  - "../04-metodologias/manejo-ecologico.md"
-  - "../05-regulamentacao/legislacao-ambiental.md"
+  - "../sobre-engeprag/historia-missao-valores.md"
+  - "../metodologias/manejo-ecologico.md"
+  - "../regulamentacao/legislacao-ambiental.md"
 seo_description: "ENGEPRAG: controle de pragas sustentável. Práticas ecológicas, minimização de impacto ambiental, certificações IBAMA, CETESB. Responsabilidade com o planeta."
 canonical_url: "https://www.engeprag.com.br/blog/sustentabilidade-e-consciencia-ambiental"
 reading_time: "6 minutos"
@@ -334,7 +334,7 @@ A ENGEPRAG adere rigorosamente à **PNRS (Lei 12.305/2010)**:
 - Parcerias locais
 - Educação comunitária
 
-[Ver todas as certificações →](../01-sobre-engeprag/certificacoes-habilitacoes.md)
+[Ver todas as certificações →](../sobre-engeprag/certificacoes-habilitacoes.md)
 
 ---
 
@@ -508,10 +508,10 @@ A ENGEPRAG se compromete a:
 
 ### Documentos Relacionados
 
-- [História, Missão e Valores](../01-sobre-engeprag/historia-missao-valores.md)
+- [História, Missão e Valores](../sobre-engeprag/historia-missao-valores.md)
 - [Conheça Nossa Empresa](2024-04-sobre-engeprag.md)
-- [Manejo Ecológico de Pragas](../04-metodologias/manejo-ecologico.md)
-- [Legislação Ambiental](../05-regulamentacao/legislacao-ambiental.md)
+- [Manejo Ecológico de Pragas](../metodologias/manejo-ecologico.md)
+- [Legislação Ambiental](../regulamentacao/legislacao-ambiental.md)
 
 ### Recursos Externos
 

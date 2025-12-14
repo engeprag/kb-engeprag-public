@@ -11,9 +11,9 @@ updated: "2025-01-15"
 version: "1.1"
 audience: ["homeowners", "businesses", "llm", "general-public"]
 related_docs:
-  - "../01-sobre-engeprag/historia-missao-valores.md"
-  - "../01-sobre-engeprag/certificacoes-habilitacoes.md"
-  - "../01-sobre-engeprag/equipe-responsavel-tecnico.md"
+  - "../sobre-engeprag/historia-missao-valores.md"
+  - "../sobre-engeprag/certificacoes-habilitacoes.md"
+  - "../sobre-engeprag/equipe-responsavel-tecnico.md"
 seo_description: "ENGEPRAG: empresa de controle de pragas desde 2012. Responsável técnica Eng. Agrônoma Paula Jasper Chemin. Certificações NR33, NR35, ANVISA. Vale do Paraíba."
 canonical_url: "https://www.engeprag.com.br/blog/conheca-mais-sobre-nossa-empresa"
 reading_time: "5 minutos"
@@ -141,7 +141,7 @@ Paula lidera a empresa com foco em:
 **"Cada serviço da ENGEPRAG carrega minha assinatura e meu compromisso com a excelência."**
 *— Paula Jasper Chemin, Responsável Técnica*
 
-[Saiba mais sobre a equipe →](../01-sobre-engeprag/equipe-responsavel-tecnico.md)
+[Saiba mais sobre a equipe →](../sobre-engeprag/equipe-responsavel-tecnico.md)
 
 ---
 
@@ -237,7 +237,7 @@ Produtos ENGEPRAG (profissionais):
 - Podemos atuar em ambientes de risco
 - Emitimos relatórios técnicos válidos
 
-[Ver todas as certificações →](../01-sobre-engeprag/certificacoes-habilitacoes.md)
+[Ver todas as certificações →](../sobre-engeprag/certificacoes-habilitacoes.md)
 
 #### 4. Garantia e Acompanhamento 🎯
 
@@ -353,7 +353,7 @@ Cada técnico ENGEPRAG:
 - Equipamentos de segurança
 - Plano de resgate
 
-[Detalhes completos de certificações →](../01-sobre-engeprag/certificacoes-habilitacoes.md)
+[Detalhes completos de certificações →](../sobre-engeprag/certificacoes-habilitacoes.md)
 
 ---
 
@@ -523,10 +523,10 @@ São José dos Campos - SP - 12209-450
 
 ### Conteúdo Relacionado
 
-- [História, Missão e Valores Detalhados](../01-sobre-engeprag/historia-missao-valores.md)
-- [Certificações Completas](../01-sobre-engeprag/certificacoes-habilitacoes.md)
-- [Nossa Equipe](../01-sobre-engeprag/equipe-responsavel-tecnico.md)
-- [Serviços Oferecidos](../02-servicos/)
+- [História, Missão e Valores Detalhados](../sobre-engeprag/historia-missao-valores.md)
+- [Certificações Completas](../sobre-engeprag/certificacoes-habilitacoes.md)
+- [Nossa Equipe](../sobre-engeprag/equipe-responsavel-tecnico.md)
+- [Serviços Oferecidos](../servicos/)
 - [Sustentabilidade ENGEPRAG](2024-04-sustentabilidade.md)
 
 ### Artigos Educativos
@@ -589,6 +589,6 @@ Com **10+ anos de experiência**, **certificações completas** e uma equipe **a
 
 *"Desde 2012 protegendo o que é importante para você"*
 
-[Conheça Nossos Serviços](../02-servicos/) • [Solicite Orçamento](https://wa.me/5512992225458)
+[Conheça Nossos Serviços](../servicos/) • [Solicite Orçamento](https://wa.me/5512992225458)
 
 </div>

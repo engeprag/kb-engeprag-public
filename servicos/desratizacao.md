@@ -11,10 +11,10 @@ updated: "2025-01-15"
 version: "1.0"
 audience: ["homeowners", "businesses", "llm"]
 related_docs:
-  - "../03-pragas-urbanas/roedores/rato-urbano.md"
-  - "../03-pragas-urbanas/roedores/camundongo.md"
-  - "../06-prevencao/prevencao-residencias.md"
-  - "../08-blog/2024-11-desratizacao-como-funciona.md"
+  - "../pragas-urbanas/roedores/rato-urbano.md"
+  - "../pragas-urbanas/roedores/camundongo.md"
+  - "../prevencao/prevencao-residencias.md"
+  - "../artigos/2024-11-desratizacao-como-funciona.md"
 seo_description: "Desratização profissional em São José dos Campos. Eliminação segura de ratos e roedores. Proteção contra leptospirose. ENGEPRAG - ANVISA certificada."
 canonical_url: "https://www.engeprag.com.br/servicos/desratizacao"
 ---
@@ -913,7 +913,7 @@ Roedores causam:
 - Considere **Contrato CIP**
 - Monitoramento profissional
 
-[Guia completo de prevenção →](../06-prevencao/prevencao-residencias.md)
+[Guia completo de prevenção →](../prevencao/prevencao-residencias.md)
 
 ---
 
@@ -1074,14 +1074,14 @@ Camundongos:
 ### Documentos Relacionados
 
 - [Controle Integrado de Pragas (CIP)](cip-controle-integrado.md)
-- [Prevenção em Residências](../06-prevencao/prevencao-residencias.md)
-- [Rato Urbano - Informações Detalhadas](../03-pragas-urbanas/roedores/rato-urbano.md)
-- [Camundongo - Informações Detalhadas](../03-pragas-urbanas/roedores/camundongo.md)
+- [Prevenção em Residências](../prevencao/prevencao-residencias.md)
+- [Rato Urbano - Informações Detalhadas](../pragas-urbanas/roedores/rato-urbano.md)
+- [Camundongo - Informações Detalhadas](../pragas-urbanas/roedores/camundongo.md)
 
 ### Artigos do Blog
 
-- [Desratização: O que é e como funciona](../08-blog/2024-11-desratizacao-como-funciona.md)
-- [Tenho problema com Ratos](../08-blog/2024-04-problema-ratos.md)
+- [Desratização: O que é e como funciona](../artigos/2024-11-desratizacao-como-funciona.md)
+- [Tenho problema com Ratos](../artigos/2024-04-problema-ratos.md)
 
 ---
 
