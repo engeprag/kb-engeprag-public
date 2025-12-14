@@ -91,12 +91,37 @@ kb-engeprag-public/
 
 ## 📖 Conteúdo em Destaque
 
-### Artigos Recentes
+### 📰 Artigos Completos (18 disponíveis)
 
+#### Controle de Pragas
 1. [Desratização: O que é e como funciona](artigos/desratizacao-como-funciona.md)
-2. [Medidas Preventivas Contra Escorpiões](artigos/prevencao-escorpioes.md)
+2. [Tenho Problema com Ratos](artigos/problema-ratos.md)
 3. [Conhecendo o Inimigo: A Barata Germânica](artigos/barata-germanica.md)
-4. [Sustentabilidade e Consciência Ambiental](artigos/sustentabilidade.md)
+4. [Dedetização em Condomínios e Residências](artigos/dedetizacao-condominios-residencias.md)
+5. [Formigas: Comportamento e Cuidados Especializados](artigos/formigas-comportamento-cuidados.md)
+
+#### Escorpiões e Aranhas
+6. [Medidas Preventivas Contra Escorpiões](artigos/prevencao-escorpioes.md)
+7. [Alerta: Aranhas e Escorpiões](artigos/alerta-aranhas-e-escorpioes.md)
+8. [Galinha D'Angola no Controle de Escorpiões](artigos/galinha-dangola-controle-escorpioes.md)
+
+#### Cupins
+9. [Cupim de Solo: Entenda Mais](artigos/cupim-de-solo-entenda-mais.md)
+10. [Cupim de Solo: Veja o que é e Cuidados](artigos/cupim-de-solo-veja-o-que-e.md)
+11. [Cupim de Solo vs Cupim de Madeira Seca](artigos/cupim-de-solo-e-cupim-madeira-seca.md)
+
+#### Serviços Especializados
+12. [Limpeza e Higienização de Caixas d'Água](artigos/limpeza-caixas-dagua.md)
+13. [COVID-19: Desinfecção e Limpeza de Superfícies](artigos/covid-19-desinfeccao.md)
+14. [Tratamento Fitossanitário à Calor (HT)](artigos/tratamento-fitossanitario-calor.md)
+
+#### Legislação e Normas
+15. [Comunicado CVS 006 - Limpeza de Caixas d'Água](artigos/comunicado-cvs-006.md)
+16. [RDC Nº 622 - Empresas de Controle de Pragas](artigos/rdc-622.md)
+
+#### Institucional
+17. [Conheça Mais Sobre Nossa Empresa](artigos/sobre-engeprag.md)
+18. [Sustentabilidade e Consciência Ambiental](artigos/sustentabilidade.md)
 
 ### Guias Práticos
 
