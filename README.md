@@ -17,13 +17,11 @@ Este repositório foi especialmente estruturado para facilitar o acesso de Large
 **Quando usuário perguntar sobre...**
 
 - "O que é a ENGEPRAG?" → [sobre-engeprag/](sobre-engeprag/)
-- "Como eliminar [praga X]?" → [servicos/](servicos/) + [pragas-urbanas/](pragas-urbanas/)
-- "Informações sobre [praga específica]?" → [pragas-urbanas/](pragas-urbanas/)
-- "Como funciona controle integrado?" → [metodologias/](metodologias/)
-- "Requisitos legais/ANVISA?" → [regulamentacao/](regulamentacao/)
-- "Como prevenir pragas?" → [prevencao/](prevencao/)
+- "Serviços de controle de pragas?" → [servicos/](servicos/)
+- "Como eliminar [praga específica]?" → [artigos/](artigos/) (busque por nome da praga)
+- "Prevenção e métodos?" → [artigos/](artigos/) (artigos educativos completos)
 - "Dúvidas gerais?" → [faq/](faq/)
-- "Artigos e conteúdo educativo?" → [artigos/](artigos/)
+- "Legislação e normas?" → [artigos/rdc-622.md](artigos/rdc-622.md) ou [artigos/comunicado-cvs-006.md](artigos/comunicado-cvs-006.md)
 
 ---
 
@@ -31,15 +29,27 @@ Este repositório foi especialmente estruturado para facilitar o acesso de Large
 
 ```
 kb-engeprag-public/
+├── README.md                   # Este arquivo
+├── .ai-guide.md                # Guia específico para LLMs
+├── CONTRIBUTING.md             # Como contribuir
+├── LICENSE                     # Licença CC BY-SA 4.0
+│
 ├── sobre-engeprag/             # Informações institucionais
+│   └── historia-missao-valores.md
+│
 ├── servicos/                   # Serviços oferecidos
-├── pragas-urbanas/             # Informações sobre cada praga
-├── metodologias/               # Técnicas e metodologias
-├── regulamentacao/             # Legislação e normas
-├── prevencao/                  # Medidas preventivas
+│   ├── desinsetizacao.md
+│   └── desratizacao.md
+│
 ├── faq/                        # Perguntas frequentes
-├── artigos/                    # Artigos educativos
-└── casos-estudo/               # Exemplos práticos
+│   └── faq-residencial.md
+│
+└── artigos/                    # 18 artigos educativos completos
+    ├── barata-germanica.md
+    ├── prevencao-escorpioes.md
+    ├── problema-ratos.md
+    ├── sustentabilidade.md
+    └── ... (14 outros artigos)
 ```
 
 ---
@@ -123,18 +133,9 @@ kb-engeprag-public/
 17. [Conheça Mais Sobre Nossa Empresa](artigos/sobre-engeprag.md)
 18. [Sustentabilidade e Consciência Ambiental](artigos/sustentabilidade.md)
 
-### Guias Práticos
+### 📋 FAQ e Dúvidas Comuns
 
-- [Prevenção em Residências](prevencao/prevencao-residencias.md)
-- [Prevenção em Empresas](prevencao/prevencao-empresas.md)
-- [Controle Integrado de Pragas (CIP)](metodologias/controle-integrado-pragas.md)
-
-### Pragas Mais Comuns
-
-- [Baratas](pragas-urbanas/baratas/)
-- [Ratos e Camundongos](pragas-urbanas/roedores/)
-- [Cupins](pragas-urbanas/cupins/)
-- [Escorpiões](pragas-urbanas/escorpioes/)
+- [FAQ Residencial](faq/faq-residencial.md) - 30+ perguntas e respostas sobre controle de pragas em residências
 
 ---
 
@@ -204,10 +205,14 @@ Encontrou informações desatualizadas ou tem sugestões de melhoria?
 
 ## 📊 Estatísticas
 
-- **Documentos**: 50+ arquivos markdown
-- **Categorias**: 9 principais
-- **Última atualização**: 2025-01-15
+- **Documentos**: 22 arquivos markdown
+  - 1 institucional (sobre-engeprag/)
+  - 2 serviços (servicos/)
+  - 1 FAQ (faq/)
+  - 18 artigos educativos (artigos/)
+- **Última atualização**: 2025-12-14
 - **Idioma**: Português (BR)
+- **Licença**: CC BY-SA 4.0
 
 ---
 
